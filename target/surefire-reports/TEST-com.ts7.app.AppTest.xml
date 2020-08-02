@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.ts7.app.AppTest" time="0.049" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\TamimFiles\AllahWorkspace\MyDataStructures\data-structures\target\test-classes;C:\TamimFiles\AllahWorkspace\MyDataStructures\data-structures\target\classes;C:\Users\tamim\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\tamim\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\tamim\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\TamimFiles\Java8\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\tamim\AppData\Local\Temp\surefire3239749985103437040\surefirebooter6012476047311834848.jar C:\Users\tamim\AppData\Local\Temp\surefire3239749985103437040 2020-08-02T19-46-13_664-jvmRun1 surefire9127096905564707536tmp surefire_02090423226205636341tmp"/>
+    <property name="surefire.test.class.path" value="C:\TamimFiles\AllahWorkspace\MyDataStructures\data-structures\target\test-classes;C:\TamimFiles\AllahWorkspace\MyDataStructures\data-structures\target\classes;C:\Users\tamim\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\tamim\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\tamim\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\tamim"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\TamimFiles\Java8\jre"/>
+    <property name="basedir" value="C:\TamimFiles\AllahWorkspace\MyDataStructures\data-structures"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\tamim\AppData\Local\Temp\surefire3239749985103437040\surefirebooter6012476047311834848.jar"/>
+    <property name="sun.boot.class.path" value="C:\TamimFiles\Java8\jre\lib\resources.jar;C:\TamimFiles\Java8\jre\lib\rt.jar;C:\TamimFiles\Java8\jre\lib\sunrsasign.jar;C:\TamimFiles\Java8\jre\lib\jsse.jar;C:\TamimFiles\Java8\jre\lib\jce.jar;C:\TamimFiles\Java8\jre\lib\charsets.jar;C:\TamimFiles\Java8\jre\lib\jfr.jar;C:\TamimFiles\Java8\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_211-b12"/>
+    <property name="user.name" value="tamim"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\TamimFiles\Java8\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\tamim\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\tamim\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_211"/>
+    <property name="user.dir" value="C:\TamimFiles\AllahWorkspace\MyDataStructures\data-structures"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\TamimFiles\Java8\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\AdoptOpenJDK\jre-11.0.7.10-hotspot\bin;C:\Program Files\AdoptOpenJDK\jdk-11.0.7.10-hotspot\bin;C:\Program Files\AdoptOpenJDK\jre-8.0.252.09-hotspot\bin;C:\Program Files\AdoptOpenJDK\jdk-8.0.252.09-hotspot\bin;C:\Program Files\AdoptOpenJDK\jre-14.0.1.7-hotspot\bin;C:\Program Files\AdoptOpenJDK\jdk-14.0.1.7-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Software\Git\cmd;C:\Software\node\;C:\Software\Microsoft VS Code\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\TamimFiles\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Users\tamim\AppData\Local\Microsoft\WindowsApps;C:\Users\tamim\AppData\Roaming\npm;C:\TamimFiles\RedHat\Openshift;C:\TamimFiles\crc-windows-1.0.0-beta.3-amd64;C:\TamimFiles\RedHat\Openshift\oc.exe;C:\TamimFiles\HasiCorp\minishift-1.34.1-windows-amd64\minishift-1.34.1-windows-amd64\;C:\Android;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\TamimFiles\Java8\bin;C:\TamimFiles\apache-maven-3.6.3\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Software\Ruby26-x64\bin;C:\Users\tamim\AppData\Local\Microsoft\WindowsApps;C:\Users\tamim\AppData\Roaming\npm;C:\Users\tamim\AppData\Local\GitHubDesktop\bin;C:\go-bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.211-b12"/>
+    <property name="java.ext.dirs" value="C:\TamimFiles\Java8\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.ts7.app.AppTest" time="0.001"/>
+</testsuite>
