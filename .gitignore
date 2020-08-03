@@ -1,8 +1,5 @@
-.project
-.classpath
-/.settings
-/target
-target/data-structures-1.0-SNAPSHOT.jar
-target/surefire-reports/com.ts7.app.AppTest.txt
-target/surefire-reports/TEST-com.ts7.app.AppTest.xml
+*.classpath
+*.project
+/.settings/**
+target/**/*
 *.jar
