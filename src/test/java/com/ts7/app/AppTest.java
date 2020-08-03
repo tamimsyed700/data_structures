@@ -66,8 +66,6 @@ public class AppTest {
     @Test
     public void test_deleteElementsAtHead() {
         linkedList.delete(0);
-        
-        System.out.println(linkedList.length());
         assertEquals(linkedList.length(), 8);
     }
 
@@ -99,5 +97,11 @@ public class AppTest {
         linkedList.delete(1);  
         linkedList.delete(1);  
         assertEquals(linkedList.length(), 1);
+    }
+
+    @Test
+    public void test_deleteOneByIndex() {
+        linkedList.delete(8);        
+        assertEquals(linkedList.length(), 8);
     }
 }

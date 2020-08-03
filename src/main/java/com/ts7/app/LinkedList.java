@@ -85,12 +85,12 @@ class LinkedList {
                 count++;
                 previousNode = currentNode;
                 currentNode=currentNode.next;
-                LOG.info("Previous node "+previousNode.data+" current node "+currentNode.data);
+                LOG.trace("Previous node "+previousNode.data+" current node "+currentNode.data);
                 if (count==index){
                     previousNode.next=currentNode.next;
                     length--;
+                    break;
                 }
-                break;
             }
         }
     }
